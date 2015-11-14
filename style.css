@@ -1,0 +1,123 @@
+body   {
+       background-color:lightgoldenrodyellow;
+}
+.navi  {
+       position: absolute;
+       top: 0px;
+       margin:auto;
+       left:29%;
+}
+.navi li {
+          border:1px solid black;
+          padding:5px;
+          background-color:darkred;
+          display:inline-block;
+}
+.navi a {
+           color: white;
+}
+#zdjecie {
+          margin: 10px 30px 10px 10px;
+           float: left;
+}
+.intro {
+          margin-top:70px;
+          color:darkred;
+}
+p{
+    color: black;
+    font-family: Arial;
+    font-size: 16px;
+}
+.zainteresowania{
+    color:green
+}
+h4{
+    color: darkorange
+}
+ul {
+    color: blue
+}
+h1{
+    color:darkred;
+    margin-left:37%;
+    margin-top:5%;
+}
+h3{ margin-left:35px;
+    margin-top: 10px;
+    font-size:20px;
+}
+.lewa{
+    font-size:14px;
+}
+.prawa{
+    margin-left: 20px;
+    font-size:14px;
+}
+.pogrubione{
+    margin-left: 20px;
+    font-size:14px;
+}
+.projekt{
+    display:inline-block;
+    width: 250px;
+
+    margin-top: 70px;
+}
+.picture{
+    height: 150px;
+    overflow: hidden;
+}
+.projekt img{
+    max-width: 100%;
+}
+#kontakt{
+    border:4px ;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+#wiadomosc{
+    margin-left:30px;
+    font-family: Arial;
+    font-size: 20px;
+}
+#box{
+    margin-left: 30px;
+    font-family: Arial;
+    font-size: 16px;
+}
+.data {
+    vertical-align: top;
+    padding-top: 10px;
+    font-size:16px;
+}
+.praca{
+    vertical-align:top;
+    padding-left: 100px;
+}
+.praca h3{
+    font-size:16px;
+    margin-left: 0px;
+    color:black;
+
+}
+.praca h4{
+    margin-left: 0px;
+    color:black;
+    font-weight: normal;
+}
+.kolor{
+    color:black;
+}
+td{
+    min-width: 151px;
+}
+.data1{
+    padding-left: 50px;
+    margin-left: 0px;
+    vertical-align: top;
+    font-size: 16px;
+}
+.praca1{
+    padding-left:50px;
+}
